@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1118C56622684053008B9E6A /* UIButtonHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B962264930A00561805 /* UIButtonHelper.swift */; };
+		1118C56722684053008B9E6A /* NSLayoutHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B972264930A00561805 /* NSLayoutHelper.swift */; };
+		1118C56822684053008B9E6A /* DeviceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B982264930A00561805 /* DeviceHelper.swift */; };
+		1118C56922684053008B9E6A /* UITextViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B992264930A00561805 /* UITextViewHelper.swift */; };
+		1118C56A22684053008B9E6A /* UILabelHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B9A2264930A00561805 /* UILabelHelper.swift */; };
+		1118C56B22684053008B9E6A /* UITextFieldHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B9B2264930A00561805 /* UITextFieldHelper.swift */; };
+		1118C56C22684076008B9E6A /* UIButtonHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B962264930A00561805 /* UIButtonHelper.swift */; };
+		1118C56D22684076008B9E6A /* NSLayoutHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B972264930A00561805 /* NSLayoutHelper.swift */; };
+		1118C56E22684076008B9E6A /* DeviceHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B982264930A00561805 /* DeviceHelper.swift */; };
+		1118C56F22684076008B9E6A /* UITextViewHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B992264930A00561805 /* UITextViewHelper.swift */; };
+		1118C57022684076008B9E6A /* UILabelHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B9A2264930A00561805 /* UILabelHelper.swift */; };
+		1118C57122684076008B9E6A /* UITextFieldHelper.swift in Resources */ = {isa = PBXBuildFile; fileRef = 11647B9B2264930A00561805 /* UITextFieldHelper.swift */; };
 		11647B84226492DA00561805 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11647B83226492DA00561805 /* AppDelegate.swift */; };
 		11647B89226492DA00561805 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11647B87226492DA00561805 /* Main.storyboard */; };
 		11647B8B226492DC00561805 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11647B8A226492DC00561805 /* Assets.xcassets */; };
@@ -139,6 +151,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1118C56C22684076008B9E6A /* UIButtonHelper.swift in Resources */,
+				1118C56D22684076008B9E6A /* NSLayoutHelper.swift in Resources */,
+				1118C56E22684076008B9E6A /* DeviceHelper.swift in Resources */,
+				1118C56F22684076008B9E6A /* UITextViewHelper.swift in Resources */,
+				1118C57022684076008B9E6A /* UILabelHelper.swift in Resources */,
+				1118C57122684076008B9E6A /* UITextFieldHelper.swift in Resources */,
 				11647B8E226492DC00561805 /* LaunchScreen.storyboard in Resources */,
 				11647B8B226492DC00561805 /* Assets.xcassets in Resources */,
 				11647B89226492DA00561805 /* Main.storyboard in Resources */,
@@ -152,6 +170,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1118C56622684053008B9E6A /* UIButtonHelper.swift in Sources */,
+				1118C56722684053008B9E6A /* NSLayoutHelper.swift in Sources */,
+				1118C56822684053008B9E6A /* DeviceHelper.swift in Sources */,
+				1118C56922684053008B9E6A /* UITextViewHelper.swift in Sources */,
+				1118C56A22684053008B9E6A /* UILabelHelper.swift in Sources */,
+				1118C56B22684053008B9E6A /* UITextFieldHelper.swift in Sources */,
 				11647B84226492DA00561805 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
