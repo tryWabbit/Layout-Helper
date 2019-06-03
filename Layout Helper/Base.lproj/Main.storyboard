@@ -106,7 +106,7 @@
                             <constraint firstItem="fVZ-K2-B3y" firstAttribute="trailing" secondItem="m3T-c4-8ea" secondAttribute="trailing" constant="20" id="Gon-Pg-M4o"/>
                             <constraint firstItem="m3T-c4-8ea" firstAttribute="leading" secondItem="fVZ-K2-B3y" secondAttribute="leading" constant="20" id="PxN-Bp-PMA"/>
                             <constraint firstItem="m3T-c4-8ea" firstAttribute="top" secondItem="WgN-nn-NNA" secondAttribute="bottom" constant="10" id="UDw-Ct-fUa"/>
-                            <constraint firstItem="WgN-nn-NNA" firstAttribute="centerY" secondItem="QBZ-QA-otB" secondAttribute="centerY" id="ssi-2B-6ci"/>
+                            <constraint firstItem="WgN-nn-NNA" firstAttribute="centerY" secondItem="QBZ-QA-otB" secondAttribute="centerY" id="ssi-2B-6ci" customClass="NSLayoutHelper" customModule="Layout_Helper" customModuleProvider="target"/>
                             <constraint firstItem="WW1-5L-NfG" firstAttribute="centerX" secondItem="QBZ-QA-otB" secondAttribute="centerX" id="vKv-zN-6ry"/>
                             <constraint firstItem="WgN-nn-NNA" firstAttribute="centerX" secondItem="QBZ-QA-otB" secondAttribute="centerX" id="xO1-ev-kbq"/>
                         </constraints>
