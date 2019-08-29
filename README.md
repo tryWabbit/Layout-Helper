@@ -4,11 +4,6 @@ Layout Helper is created to solve the issue of constraint based layout where the
 ---
 ![Swift](https://img.shields.io/badge/Swift-v4.2-orange.svg) 
 ![Xcode](https://img.shields.io/badge/XCode-10.0-blue.svg)
-![](https://img.shields.io/badge/NSLayoutConstraint-Helper-green.svg) 
-![](https://img.shields.io/badge/UILabel-Helper-green.svg) 
-![](https://img.shields.io/badge/UITextField-Helper-green.svg)
-![](https://img.shields.io/badge/UITextView-Helper-green.svg) 
-![](https://img.shields.io/badge/UIButton-Helper-green.svg)
 
 
 ![Screen Shot 2019-04-15 at 5 09 26 PM](https://user-images.githubusercontent.com/20557360/56130275-0f724b00-5fa2-11e9-81ca-02cda8821dc3.png)
