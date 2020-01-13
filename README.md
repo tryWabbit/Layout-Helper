@@ -2,7 +2,7 @@
 Layout Helper is created to solve the issue of constraint based layout where the developer are bound by the size classes for the same size for the same size classes but haveing different screen sizes. Layout Helper will give the Developer the freedom to update Constraints, Fonts of various UI element for every single device. 
 
 ---
-![Swift](https://img.shields.io/badge/Swift-v4.2-orange.svg) 
+![Swift](https://img.shields.io/badge/Swift-v5.0-orange.svg) 
 ![Xcode](https://img.shields.io/badge/XCode-10.0-blue.svg)
 
 
