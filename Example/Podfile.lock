@@ -1,0 +1,16 @@
+PODS:
+  - LayoutHelper (0.1.2)
+
+DEPENDENCIES:
+  - LayoutHelper (from `../`)
+
+EXTERNAL SOURCES:
+  LayoutHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LayoutHelper: f235ecf95d72b95a6b9cd78f192f04c87df30c37
+
+PODFILE CHECKSUM: 73970286120070accb1279c1d25a3256aeece59b
+
+COCOAPODS: 1.8.4

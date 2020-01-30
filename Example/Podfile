@@ -1,0 +1,9 @@
+use_frameworks!
+target 'LayoutHelper_Tests' do
+  pod 'LayoutHelper', :path => '../'
+  
+  
+end
+target 'LayoutHelper' do
+  pod 'LayoutHelper', :path => '../'
+end
