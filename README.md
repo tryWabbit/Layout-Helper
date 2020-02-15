@@ -1,17 +1,34 @@
+![LayoutHelper](https://user-images.githubusercontent.com/20557360/73587651-8a323580-44e4-11ea-9c27-dd5acdabbcf0.png)
+![Swift](https://img.shields.io/badge/swift-v5.0-orange.svg)
+[![Pod](https://img.shields.io/badge/pod-v0.1.3-blue.svg)](https://cocoapods.org/pods/LayoutHelper)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tryWabbit/Layout-Helper/blob/master/LICENSE)
+---
 # Layout-Helper
-Layout Helper is created to solve the issue of constraint based layout where the developer are bound by the size classes for the same size for the same size classes but haveing different screen sizes. Layout Helper will give the Developer the freedom to update Constraints, Fonts of various UI element for every single device. 
+Layout Helper is created to solve the issue of constraint based layout where the developer are bound by the size classes for the same size classes but haveing different screen sizes. Layout Helper will give Developer the freedom to update Constraints, Fonts of various UI element for every single device. 
 
 ---
-![Swift](https://img.shields.io/badge/Swift-v5.0-orange.svg) 
-![Xcode](https://img.shields.io/badge/XCode-10.0-blue.svg)
+![Untitled](https://user-images.githubusercontent.com/20557360/73592574-de0f3f80-4521-11ea-8aa8-918ff1f25b80.png)
 
-
-![Screen Shot 2019-04-15 at 5 09 26 PM](https://user-images.githubusercontent.com/20557360/56130275-0f724b00-5fa2-11e9-81ca-02cda8821dc3.png)
 
 
 
 ---
-## Still Struggling with Size Classes or Auto Layouts?
+## Installation
+
+### CocoaPods
+
+To install LayoutHelper using [CocoaPods](http://cocoapods.org), add the following line to your Podfile:
+
+```
+pod 'LayoutHelper'
+```
+### Manually 
+
+ Drag the files manually from LayoutHelper/Classes folder to your project and you're ready to go.
+
+## Usage
+
+### Still Struggling with Size Classes or Auto Layouts?
 ![gif demo 1](https://user-images.githubusercontent.com/20557360/56130354-49435180-5fa2-11e9-8b47-49d6e8b04f88.gif)
 
 **Are you still struggling with size classes for the same device or having difficulty using autolayouts?
@@ -19,7 +36,6 @@ Layout helper offers you the freedom to customize your NSLayoutConstraint withou
 
 ---
 
-## Usage 
 ![assign class](https://user-images.githubusercontent.com/20557360/56131326-bd7ef480-5fa4-11e9-953e-3f5e2f97033f.gif)
 
 
@@ -35,6 +51,7 @@ Layout helper offers you the freedom to customize your NSLayoutConstraint withou
 
 
 ---
+## License
 MIT License
 
 Copyright (c) 2019 Wabbit
