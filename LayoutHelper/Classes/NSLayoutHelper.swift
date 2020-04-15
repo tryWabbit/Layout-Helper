@@ -17,14 +17,14 @@ import UIKit
     @IBInspectable var iPhone8Plus: CGFloat = 0.0 {
         didSet { deviceConstant(.i5_5Inch,value:iPhone8Plus) }
     }
-    @IBInspectable var iPhoneXS: CGFloat = 0.0 {
-        didSet { deviceConstant(.i5_8Inch,value:iPhoneXS) }
+    @IBInspectable var iPhone11Pro: CGFloat = 0.0 {
+        didSet { deviceConstant(.i5_8Inch,value:iPhone11Pro) }
     }
-    @IBInspectable var iPhoneXR: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_1Inch,value:iPhoneXR) }
+    @IBInspectable var iPhone11: CGFloat = 0.0 {
+        didSet { deviceConstant(.i6_1Inch,value:iPhone11) }
     }
-    @IBInspectable var iPhoneXMax: CGFloat = 0.0 {
-        didSet { deviceConstant(.i6_5Inch,value:iPhoneXMax) }
+    @IBInspectable var iPhone11Max: CGFloat = 0.0 {
+        didSet { deviceConstant(.i6_5Inch,value:iPhone11Max) }
     }
     @IBInspectable var iPadMini: CGFloat = 0.0 {
         didSet { deviceConstant(.i7_9Inch,value:iPadMini) }
