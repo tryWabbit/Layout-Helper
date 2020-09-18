@@ -1,6 +1,6 @@
 ![LayoutHelper](https://user-images.githubusercontent.com/20557360/73587651-8a323580-44e4-11ea-9c27-dd5acdabbcf0.png)
 ![Swift](https://img.shields.io/badge/swift-v5.0-orange.svg)
-[![Pod](https://img.shields.io/badge/pod-v0.1.3-blue.svg)](https://cocoapods.org/pods/LayoutHelper)
+[![Pod](https://img.shields.io/badge/pod-v0.1.5-blue.svg)](https://cocoapods.org/pods/LayoutHelper)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tryWabbit/Layout-Helper/blob/master/LICENSE)
 ---
 # Layout-Helper
