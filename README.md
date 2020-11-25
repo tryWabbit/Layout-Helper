@@ -22,6 +22,15 @@ To install LayoutHelper using [CocoaPods](http://cocoapods.org), add the followi
 ```
 pod 'LayoutHelper'
 ```
+
+### Swift Package Manager
+
+To install LayoutHelper using [Swift Package Manager](https://swift.org/package-manager), add this package to your project’s ‘Swift Packages’ section, or add the following line to your Package.swift:
+
+```swift
+.package(url: "https://github.com/tryWabbit/Layout-Helper.git", from: "0.1.0")
+```
+
 ### Manually 
 
  Drag the files manually from LayoutHelper/Classes folder to your project and you're ready to go.
