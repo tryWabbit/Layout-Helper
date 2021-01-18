@@ -31,13 +31,13 @@ import UIKit
         didSet { deviceFont(.i6_5Inch,value:iPhone11Max) }
     }
     @IBInspectable var iPhone12Mini: CGFloat = 0.0 {
-        didSet { iPhone12Mini(.i5_4Inch,value:iPhone12Mini) }
+        didSet { deviceFont(.i5_4Inch,value:iPhone12Mini) }
     }
     @IBInspectable var iPhone12: CGFloat = 0.0 {
-        didSet { iPhone12Mini(.i6_1Inch,value:iPhone12) }
+        didSet { deviceFont(.i6_1Inch,value:iPhone12) }
     }
     @IBInspectable var iPhone12ProMax: CGFloat = 0.0 {
-        didSet { iPhone12Mini(.i6_7Inch,value:iPhone12ProMax) }
+        didSet { deviceFont(.i6_7Inch,value:iPhone12ProMax) }
     }
     @IBInspectable var iPadMini: CGFloat = 0.0 {
         didSet { deviceFont(.i7_9Inch,value:iPadMini) }
