@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LayoutHelper'
-  s.version          = '0.1.6'
+  s.version          = '1.0.0'
   s.summary          = 'A beautiful library used create different device based UI'
   s.swift_version    = '5.0'
 
